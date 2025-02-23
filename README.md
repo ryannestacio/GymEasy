@@ -1,10 +1,10 @@
-# cadastroacademia
+# Aplicativo para gestão de alunos na academia.
 
-A new Flutter project.
+Apresento a vocês meu primeiro projeto prático com Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Um simples projeto que é capaz de gerir uma micro/pequena academia de bairro sem maiores detalhes no cadastro de alunos, apenas dados relevantes e essenciais. Criado com banco de dados local, armazenando sem backup.
 
 A few resources to get you started if this is your first Flutter project:
 
